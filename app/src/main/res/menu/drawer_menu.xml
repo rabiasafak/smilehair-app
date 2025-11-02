@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_patient_tracking"
+        android:title="Hasta Takip"
+        android:icon="@drawable/ic_info"
+        android:visible="false"/> <!-- Başlangıçta görünmez -->
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profil"
+        android:icon="@drawable/user"/>
+    <item
+        android:id="@+id/nav_guide"
+        android:title="İşlem Sonrası Rehberi"
+        android:icon="@drawable/cardiogram"/>
+
+
+    <item
+        android:id="@+id/nav_wp"
+        android:title="Whatsapp İletişim"
+        android:icon="@drawable/whatsapp"/>
+    <item
+        android:id="@+id/nav_exit"
+        android:title="Çıkış Yap"
+        android:icon="@drawable/whatsapp"/>
+
+</menu>

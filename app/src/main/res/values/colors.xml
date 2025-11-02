@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="gri">#d0e4e5</color>
+    <color name="lacivert">#0c1d34</color>
+    <color name="acikgri">#e5e5e5</color>
+    <color name="primary">#6366F1</color> <!-- Mor-mavi geçişli modern renk -->
+    <color name="secondary">#8B5CF6</color>
+    <color name="accent">#EC4899</color>
+    <color name="background">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1E1E1E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="primaryColor">#6366F1</color>
+
+        <color name="colorAccent">#4CAF50</color>
+        <color name="textPrimary">#1A1A1A</color>
+        <color name="textSecondary">#424242</color>
+    <color name="status_active">#4CAF50</color> <!-- Yeşil -->
+    <color name="status_completed">#2196F3</color> <!-- Mavi -->
+    <color name="status_cancelled">#F44336</color> <!-- Kırmızı -->
+    <color name="gray">#9E9E9E</color>
+    <color name="text_tertiary">#9E9E9E</color>
+
+
+
+
+
+</resources>

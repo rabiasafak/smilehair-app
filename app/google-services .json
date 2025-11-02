@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "12064393119",
+    "firebase_url": "https://instagram-d9e14-default-rtdb.firebaseio.com",
+    "project_id": "instagram-d9e14",
+    "storage_bucket": "instagram-d9e14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12064393119:android:c08742b8cb1e345748dfaa",
+        "android_client_info": {
+          "package_name": "com.example.smilehair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12064393119-24nipl7847si8043k95o1pau6ph53f6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smilehair",
+            "certificate_hash": "b6bef84de89f9b7cd31e4d1a0e8d44f99fb10b15"
+          }
+        },
+        {
+          "client_id": "12064393119-7bapimshi2evgl1ncl3p271umrjtm9gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_nyekzo-YGWuQiiu4ETt3T4fcUFWvtHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12064393119-7bapimshi2evgl1ncl3p271umrjtm9gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,546 @@
+<resources>
+    <string name="back">Geri</string>
+    <string name="why_us_icon">Neden Biz ikonu</string>
+    <string name="reason_image">Sebep görseli</string>
+    <string name="press_icon">Basın ikonu</string>
+    <string name="social_icon">Sosyal sorumluluk ikonu</string>
+    <string name="project_image">Proje görseli</string>
+    <string name="press_image">Basın görseli</string>
+    <string name="calendar_icon">Takvim ikonu</string>
+    <string name="doctor_image">Doktor fotoğrafı</string>
+    <string name="empty">Boş</string>
+    <string name="ethics_icon">Etik ikonu</string>
+    <string name="sakal_ekimi_surec">
+    <![CDATA[
+    <p>Sakal ekimi, son yıllarda popülerliğini artıran bir estetik uygulamadır. Erkeklerin yüz hatlarını belirginleştirmek ve estetik görünümünü güçlendirmek için tercih edilmektedir. Bu anlamda birçok kişi, “Sakal ekimi ne kadar sürer?” sorusunu sormaktadır.</p>
+
+    <p>Sakal ekimi süreci, genellikle 2 ila 5 saat arasında değişmektedir. Ancak bu süre; ekim yapılacak bölgenin genişliğine, kullanılacak folikül miktarına ve kliniğin kullandığı teknolojiye bağlı olarak değişiklik gösterebilir. Foliküler Ünite Ekstraksiyonu (FUE) yöntemiyle yapılan sakal ekimlerinde, foliküller tek tek alındığı için süreç biraz daha uzun sürebilir.</p>
+
+    <p>Smile Hair Clinic olarak, uzman ekibimizle hastalarımıza en doğal görünümlü sakal ekimi sonuçları sunmayı amaçlamaktayız. En güncel teknolojileri kullanarak, hastalarımızın ihtiyacına göre özelleştirilmiş tedavi planları oluşturuyoruz. Sakal ekimi konusundaki deneyim ve uzmanlığımız sayesinde, uygulama süresini minimumda tutarak, hastalarımızın konforlu bir deneyim yaşamalarını sağlıyoruz.</p>
+    ]]>
+</string>
+
+    <string name="sakal_ekimi_sonrasi">
+    <![CDATA[
+    <p>Sakal ekimi ve bıyık ekimi sonrasında gözle görülür büyük bir yara izi kalmaz ve iyileşme süreci oldukça hızlıdır. Ciltte kızarma, şişlik ve kuruluk gibi geçici belirtiler ortaya çıkabilir fakat bu belirtiler birkaç gün içinde tamamen ortadan kalkar.</p>
+
+    <p>Saç ekiminden farklı olarak ekili alan yüz olması ve yüzün daha hassas olmasından ötürü, yüzde ilk 2-3 gün şişkinlik olabilir. Ancak hastanın süreç sonrasında önerilere uyması, ilaç kullanımı ve buz uygulamalarıyla bu semptomlar minimal düzeye indirgenmektedir.</p>
+
+    <p>Takip edilen hastalarda genel olarak operasyon sonrası ağrı pek karşılaşılan bir durum değildir. Operasyonda yüze işlem yapıldığı için uyku pozisyonu en dikkat edilmesi gereken durumlardan bir diğeridir, hastanın uygun pozisyonda yatması ve ekili graftlere zarar vermemesi gerekir.</p>
+
+    <p>Smile Hair Klinik’te bunun için gerekli olan bilgiler sakal ekimi operasyonu sonrası hastalarla paylaşılmaktadır.</p>
+
+    <p>Operasyon sonrasında kişinin işe dönüşü 1 haftayı bulabilmektedir. Medikal ve tıbbi anlamda 2-3 gün sonra da dönmesiyle ilgili bir sorun olmasa da, hastanın görünüşünden dolayı çekincesinin olması ve meraklı gözlerden ve sorulardan uzak kalması açısından, en az 1 hafta sonrasına planlama yapmasını öneririz.</p>
+
+    <p>Bu dönemde cilt iyileşmiş, sakallar çıkmış ve şekillenmiş, şişkinlik inmiş ve kızarıklık azalmış olacaktır. 2-3. haftaya kadar süreç hastayı memnun eden, etraftan olumlu geri dönüş duyan ve yaptırmakla doğru karar verdiği bir dönem olacaktır.</p>
+
+    <p>Ancak bu dönem sonrası belli bir süreliğine sakal ekimi yapılan bölgede, ekilen saç kökleri geçici bir dökülme periyoduna girecektir. Hastalar bu dönemde ekilen sakal köklerinin %50-80’ine kadar kayıp yaşayabilirler. Ancak 3. ve 4. ay itibariyle bu ekilen saçlar tekrardan çıkmaya ve uzamaya başlayacaktır. Aşağıdaki grafikte süreç ayrıntılı olarak görülmektedir.</p>
+    ]]>
+</string>
+
+    <string name="sakal_ekimi_intro">
+    <![CDATA[
+    <p>Sakal her zaman erkekler için önemli olmuştur. Belirli bir dönem gözden düşmüş ve sakalsız olmak medeniyetin şartı olarak tanımlanmış olsa da, Amerika başkanı Abraham Lincoln gibi figürlerin sakal bırakması sakalı tekrar moda haline getirmiş ve o günden günümüze yerini korumuştur.</p>
+
+    <p>Geçtiğimiz on yılda ise sosyal medyanın yükselişi ile sakalı gür erkek resimleri maskülenliğin ve yakışıklılığın tanımı haline gelmiştir. Sakalında boşluk olması bazı erkeklere özgüven eksikliği hissettirir.</p>
+
+    <p>Hollywood aktörlerinden Brad Pitt, George Clooney, Ben Affleck ve Colin Farrel gibi ünlülerin de bu trende katılması ve sakal ekimi yaptırması bu trendin yükselmesine katkı sağlamıştır ve sakal ekimi operasyonu sıkça uygulanır hale gelmiştir.</p>
+
+    <p>Sakal ekimi operasyonu, kişinin sakal ve bıyık bölgesinde hiç çıkmamış ya da daha sonrasında travma, kesi gibi sebeplerle olan sakalların kaybı ile gelişen alanlara mikro FUE yöntemi ile başın arkasında bulunan donör bölgesinden ya da sakalın yoğun bulunduğu çene altı kısmından alınan greftlerin nakledilmesidir.</p>
+
+    <p>Lokal anestezi ile gerçekleştirilen ve yaklaşık 8 saat süren operasyon, lokal anestezi uygulandıktan sonra rahat bir şekilde geçer.</p>
+
+    <p>Tek uygulama ile başarılı sonuçlar alınma oranı yüksektir. Bazı kişilerde ikinci bir operasyon gerekli olabilir. Günümüz dünyasında erkekler için önemli bir dış görünüş kriteri olan sakal, berberler tarafından ekim yapılmamış değişik modeller verilerek düzeltilmeye çalışılmaktadır.</p>
+
+    <p>Sakal ekiminin avantajlarından birisi, sakalı şekillendirme sakal ekiminin planlama aşamasında yapılacağı için, kişinin yüzüne uygun model birlikte seçilir, bu planlama dahilinde kişiye sakal ekimi yapılır ve ömür boyu kullanabilir.</p>
+    ]]>
+</string>
+
+    <string name="kas_ekimi_indikasyon">
+    <![CDATA[
+    <p>Kaş ekimi operasyonu, bu operasyona ihtiyaç duyabilecek herkese uygulanabilir. Aşağıdaki sebepler günümüzde kaş ekimi operasyonu talebinde bulunanların en yaygın sebepleri arasında yer almaktadır.</p>
+
+    <ul>
+        <li><b>Kaşlarının görünümünden memnun olmayan, kaşlarında seyreklik olanlar:</b> Kaş şekli ve seyrekliği genellikle genetik bir faktör olmakla birlikte uygulanan yanlış kaş alımı işlemleri vb. uygulamalar sonucu da oluşmuş olabilmektedir. Kaş ekimi bu sorundan şikayet eden hastalarımız için kalıcı çözüm olacaktır.</li>
+
+        <li><b>Kaş dökülmesi sorunu yaşayan kişiler:</b> Bazı hastalıklar, ilaç tedavileri, yanlış makyaj uygulamaları kaşların dökülmesine sebep olmaktadır. 2-3 saat sürecek olan kaş ekimi operasyonu ile birlikte hasta bu sıkıntısında kalıcı olarak kurtulacaktır.</li>
+
+        <li><b>Kaza ve yaralanmalar sebebiyle kaşlarını kaybedenler:</b> Maalesef hastalarımızın geçirdikleri bazı kazalar ve bu kazalardan kaynaklı yaralanmalar sebebi ile kaşların görüntüsünde kalıcı bozukluklar oluşabilmektedir. Bu sorunu gidermenin en doğal yolu yine kaş ekimidir. Kaş ekimi sayesinde kaybedilen kaşlar geri kazandırılırken, kaş bölgesinde oluşmuş yara izleri de örtülebilmektedir.</li>
+    </ul>
+    ]]>
+</string>
+
+    <string name="kas_ekimi_operasyon">
+    <![CDATA[
+    <p>Kaş ekimi operasyonu aslında saç ekimi işlemi ile birebir aynıdır. Transfer edilecek greft miktarı az olduğu için daha kısa (2-3 saat) sürer. Lokal anestezi eşliğinde yapılır.</p>
+
+    <p>Hastaya alım ve ekimden önce olmak üzere iki kez lokal anestezi uygulanır. Anestezi işlemi sırasında minimal bir ağrı hissedilse de, uygulandıktan sonra hasta hiçbir şekilde ağrı hissetmez. Bu da hastanın operasyon esnasında hiçbir şey hissetmeden konforlu bir biçimde kök transferinin sağlanmasına yardımcı olur.</p>
+
+    <p>Konsültasyon işlemi sırasında öncelikle doktorlarımız hastanın kaş ekimi operasyonundan beklentisini dinleyerek, kendi tecrübelerinden de yola çıkarak hastayı mutlu edecek optimum çözüme ulaşmaya çalışır.</p>
+
+    <p>Konsültasyon sırasında altın oran pergeli ile, hastanın yüz hatlarına en uygun kaş şekli belirlenir. İlk önce kaşlara lokal anestezi uygulanır. İhtiyaç olan sayı çok az olacağı için cerrah öncelikle kaşlara safir FUE yöntemi ile kanalları açar.</p>
+
+    <p>Bu sayede hem gereken sayının tam olarak bilinerek donör alandan fazla greft alımının önüne geçilir, hem de greftlerin vücut dışında kalma süresi azaltılarak risk minimuma indirilmiş olur.</p>
+
+    <p>Sonrasında ise kadınların donör bölgesindeki saçlar diğer uzun saçların kamufle etmesine imkan tanıyacak bir pencere açılarak tıraş edilir ve bu bölgeye lokal anestezi uygulanır.</p>
+
+    <p>Donör bölgesinden greftler mikro FUE yöntemi ile alınır ve kısa bir sürede daha önceden açılmış kanallara nakledilir. Operasyondan sonra hastanın uygulaması gereken bakım ve tedavi talimatları hastaya anlatılarak, pansumanı tamamlanarak taburcu edilir.</p>
+
+    <p>Operasyondan bir gün sonra hasta evde dinlenirken, bir sonraki gün tekrar kliniğe davet edilerek kontrolleri gerçekleştirilir.</p>
+
+    <p>Kaşların adaptasyon süresi kişiden kişiye değişmekle birlikte ortalama 1-2 sene arasında sürmektedir.</p>
+    ]]>
+</string>
+
+    <string name="kasEkimiNedir">
+    <![CDATA[
+    <p>Kaş Ekimi, kadınlar kaşlarına binlerce yıldır özen göstermekte ve ilgilenmektedir. Kaşların şekilleri araştırmalara göre karşımızdaki insana kim olduğumuzu tanımlar. Günlük hayatımızda duygularımızın karşı tarafa yansıtılmasında büyük rol oynamaktadırlar.</p>
+
+    <p>Dış görünüşün sosyal medyanın geniş kullanımı ile insanlık tarihinin herhangi bir döneminden çok daha fazla önemli olduğu günümüzde, birçok kadın kaşlarının istedikleri gibi görünmesi için çok fazla efor sarf etmekte aynı zamanda çok fazla para ve zaman harcamaktadırlar.</p>
+
+    <p>Hiç şekil verilmemiş ve alınmamış kaşlarda yaklaşık 1200 kadar kıl kökü bulunabilir, bu rakam sürekli şekil verilen kaşlarda 200 civarına düşebilmektedir.</p>
+
+    <p>Estetik kaygıların yanı sıra, ne yazık ki bazı hastalıklar, ilaç tedavileri, yanlış makyaj uygulamaları kaşların seyrelmesine ve şekil bozukluğuna yol açabilir. Etkileyici ve kusursuz bakışlara sahip olmak günümüzde hem kadınlar hem de erkekler için büyük önem arz etmektedir.</p>
+
+    <p>Geçtiğimiz son 10 yılda mikro FUE kaş ekimi ağırlıklı olarak kadınlar olmak üzere, erkeklerin de en çok yaptırdığı estetik operasyonlardan biri haline gelmiştir. Bazı kültürlerde kaşlar erkekler için otorite simgesi olarak görülmekte ve özellikle dünya devi şirketlerin yöneticileri mikro FUE kaş ekimi yöntemine baş vurmaktadırlar.</p>
+
+    <p>Günümüzde ise kişinin yüz ifadesi üzerinde etkili olan kaşların görünümü, FUE kaş ekimi yöntemi ile kusursuz ve etkileyici şekilde tasarlanabilmektedir.</p>
+    ]]>
+</string>
+
+    <string name="biyik_dokulme_nedenleri">
+    <![CDATA[
+    <p>Bıyık dökülmesine hastalık, travma ve hormonal dengesizlik gibi çeşitli faktörler neden olabilir.</p>
+
+    <p>Saç dökülmesi, radyasyon ve kemoterapiye maruz kalma nedeniyle kanser tedavilerinin iyi bilinen olumsuz etkisidir. Tedavi sırasında bıyık veya vücudun farklı bölgelerindeki kıllar dökülebilir.</p>
+
+    <p>Bir otoimmün hastalığı olan <b>alopesi areta üniversalis</b>, bıyık da dahil olmak üzere vücudun farklı bölgelerinde saç dökülmesine neden olabilir. Bu hastalıkta bağışıklık sistemi saç köklerini hedef alarak dökülmeye yol açar.</p>
+
+    <p>Eğer <b>hipogonadizm (düşük testosteron)</b> sorunu varsa, bıyıklarda veya vücudun farklı noktalarında saç dökülmeleri görülebilir.</p>
+
+    <p>Parazitler, bakteriler, mantarlar ve batık tüylerden kaynaklanan <b>bıyık yaraları</b> da seyrek bıyıklara neden olabilir.</p>
+
+    <p><b>Tinea enfeksiyonu (saçkıran)</b>, cilt, saç ve saç köklerini etkileyen bir mantar enfeksiyonudur. Bıyık veya sakal çevresinde kaşıntı ve kırmızı halkalar görülmesi seyrek bıyıklara işaret edebilir.</p>
+
+    <p><b>Sedef hastalığı</b> da bıyık ve sakal köklerini etkileyebilir. Bazı vakalarda dudak kıl kökleri ciddi şekilde tahrip olabilir.</p>
+
+    <p>Enflamasyonlar ve enfeksiyonlar da bıyık üzerinde saç dökülmesine neden olabilir. Ayrıca çok sayıda sivilce bulunması saç köklerine zarar verebilir.</p>
+    ]]>
+</string>
+
+    <string name="biyik_ekimi_iyilesme_sureci">
+<![CDATA[
+<b>Bıyık Ekimi Sonrası İyileşme Süreci</b><br/><br/>
+
+Bıyık ekimi diğer saç ekim işlemlerine göre daha hassas bir operasyondur.<br/>
+Ancak iyileşme süreci daha hızlıdır ve hastalar genellikle <b>6 ay</b> içinde ciddi komplikasyon yaşamadan tamamen iyileşir.<br/><br/>
+
+Operasyon sonrası ekim yapılan bölgede kanamaya bağlı <b>kırmızı noktalar</b> görülebilir. Bu tamamen normaldir ve <b>birkaç gün içinde kaybolur</b>.<br/><br/>
+
+<b>Olası Yan Etkiler</b><br/>
+• Üst dudakta şişlik — yemek yerken zorluk yaşanabilir<br/>
+• Üst dudakta kabuklanma ve kaşıntı<br/><br/>
+
+Bu belirtiler beklenen durumlardır ve genellikle <b>5-7 gün içinde</b> tamamen geçer.<br/><br/>
+
+<b>Dikkat Edilmesi Gerekenler</b><br/>
+• Ekim yapılan bölgeyi ovalamayın ve kaşımayın<br/>
+• Ani hareketlerden kaçının<br/>
+• Bıyık bölgesini darbelerden koruyun<br/><br/>
+
+Unutmayın: Bu bölgeye uygulanacak her baskı veya travma ekilen köklerin zarar görmesine ve operasyonun başarısız olmasına neden olabilir.<br/><br/>
+]]>
+</string>
+
+    <string name="biyik_ekimi_oncesi_sonrasi">
+<![CDATA[
+<b>Başarılı Bir Bıyık Ekimi İçin Dikkat Edilmesi Gerekenler</b><br/><br/>
+
+Başarılı bir bıyık ekimi operasyonu için doğru adımların uygulanması son derece önemlidir.<br/><br/>
+
+<b>Sigara ve Alkol</b><br/>
+• Sigara ve tütün ürünleri, nikotin içeriği nedeniyle kan damarlarını daraltır ve ekilen bölgeye kan akışını azaltarak iyileşmeyi olumsuz etkiler.<br/>
+• Nikotin, dokulara oksijen ulaşmasını engeller. Bu da iyileşme sürecini uzatır ve sonuçları kötü etkileyebilir.<br/>
+• Alkol, operasyon sırasında kullanılan lokal anestezik ilaçlarla etkileşime girebilir, kanamayı artırabilir ve morarmaya neden olabilir.<br/>
+• Bu nedenle ameliyattan en az <b>24-48 saat önce</b> alkol tüketiminden kaçınmalısınız.<br/><br/>
+
+<b>Kronik Hastalıklar ve İlaç Kullanımı</b><br/>
+• Düzenli ilaç kullanıyorsanız veya kronik bir hastalığınız varsa mutlaka doktorunuza bildirmelisiniz.<br/>
+• İlaç veya madde alerjiniz varsa bunu paylaşmanız <b>hayati öneme sahiptir</b>.<br/><br/>
+
+<b>Kıyafet Seçimi</b><br/>
+• Operasyon günü rahat kıyafetler tercih edilmelidir.<br/>
+• Özellikle <b>düğmeli gömlekler</b> veya <b>fermuarlı üstler</b> önerilir.<br/>
+• Bu sayede operasyon sonrası ekilen bölgeyi rahatsız etmeden kıyafet değiştirilebilir.<br/><br/>
+]]>
+</string>
+
+    <string name="biyik_ekimi_bilgi">
+<![CDATA[
+<b>Bıyık Ekimi – Maskülen Görünüm İçin En Etkili Çözüm</b><br/><br/>
+
+Bıyık ekimi, son zamanların en trend konularından biri haline gelmiştir. Tarih boyunca bıyık, centilmenliğin ve maskülenliğin bir sembolü olarak erkeklerin görünümünde önemli bir rol oynamıştır.<br/><br/>
+
+Günümüzde birçok erkek; <b>hormonal dengesizlikler</b>, <b>genetik faktörler</b>, <b>yara izleri</b>, <b>iltihaplar</b> ve <b>enfeksiyonlar</b> nedeniyle düzensiz ve seyrek bıyıklara sahip olabilmektedir. Bu durum özgüven ve özsaygı problemlerine yol açabilmektedir.<br/><br/>
+
+Bu nedenle pek çok erkek, bıyık ekiminin mümkün olup olmadığını araştırmaktadır.<br/><br/>
+
+Bıyık ekim operasyonu tıpkı saç ekimi gibi uygulanır ancak <b>yüz bölgesinde gerçekleştirilmesi nedeniyle daha hassas ve sofistike bir işlemdir</b>.<br/><br/>
+
+Başarılı sonuçlar ve komplikasyonlardan kaçınmak için bıyık ekimi mutlaka <b>doğru planlama</b> ve <b>uzmanlık</b> gerektirir.
+]]>
+</string>
+
+    <string name="mezoterapi_sss">
+<![CDATA[
+
+
+<b>Mezoterapi işlemi sırasında ağrı çeker miyim?</b><br/>
+İşlem öncesinde bölgeye anestezik ve ağrı kesici özellikte krem uygulanarak hastanın konforu maksimum düzeye çıkarılır. Kullanılan iğne uçları çok kısa ve ince olduğundan, kişi ağrı eşiğine bağlı olarak yalnızca hafif düzeyde batma veya acı hissedebilir.<br/><br/>
+
+<b>Mezoterapinin yan etkileri nelerdir?</b><br/>
+Mezoterapi sonrası ciddi bir yan etki beklenmez. Çok nadir olarak enjeksiyon alanında aşağıdaki durumlar görülebilir:<br/>
+• Hafif ödem<br/>
+• Kızarıklık<br/>
+• Kaşıntı<br/>
+• Alerjik reaksiyon belirtileri<br/><br/>
+Bu etkiler genellikle kısa sürelidir ve kendiliğinden düzelir.<br/><br/>
+
+<b>Safir saç ekimi sonrası kaç kez mezoterapi yaptırmalıyım?</b><br/>
+Smile Hair Clinic protokolü uyarınca:<br/>
+• Mezoterapiye <b>1. aydan itibaren</b> başlanması önerilir.<br/>
+• Genellikle <b>ayda 1 seans</b> uygulanır.<br/>
+• Kullanılan ilaca ve hekimin değerlendirmesine göre <b>8–12 ay</b> boyunca devam edilebilir.<br/><br/>
+Uygulama sıklığı kişiye göre değişir; doğru klinik ve deneyimli hekimler tarafından uygulandığında başarılı sonuçlar elde edilir.
+]]>
+</string>
+
+    <string name="mezoterapi_faydalar">
+<![CDATA[
+<b>Mezoterapinin Saça Faydaları</b><br/><br/>
+• Mevcut saçların korunmasında oldukça etkilidir.<br/>
+• Topikal ürünlere göre daha güçlü ve hızlı etki gösterir.<br/>
+• Kepek probleminin azaltılmasında başarılı sonuçlar sağlar.<br/>
+• Saç renginin korunmasına yardımcı olur, beyazlamayı geciktirebilir.<br/>
+• Saça parlaklık, canlılık ve hacim kazandırır.<br/>
+• Saç tellerinin ömrünü uzatır.<br/>
+• Saç tellerinin kalınlaşmasına ve güçlenmesine katkı sağlar.<br/>
+]]>
+</string>
+
+    <string name="mezoterapi_bilgi">
+<![CDATA[
+<b>Mezoterapi Nedir ve Kimler İçin Uygundur?</b><br/><br/>
+
+Mezoterapi, ilgili alana birden fazla enjeksiyon yapılarak uygulanan bir tedavi yöntemidir. Enjeksiyonlardan önce bölgeye lokal anestezik uygulanır ve her enjeksiyonda doktorunuzun belirlediği miktarda karışım cilt altına enjekte edilir.<br/><br/>
+
+<b>Mezoterapi aşağıdaki durumlarda etkili ve uygundur:</b><br/>
+• Saç dökülme sorunu yaşayan kişiler.<br/>
+• Genetik olarak saç dökülmesine yatkınlığı bulunan kişiler.<br/>
+• Diyet sebebiyle ani saç kaybı yaşayan kişiler.<br/>
+• Zayıf ve yıpranmış saçlarından şikayetçi olan kişiler.<br/>
+• Saçın geç uzaması gibi durumlarda.<br/><br/>
+
+Mezoterapi her yaşa uygundur ve otoimmün hastalığı olan kişilerde güvenle uygulanabilir. Uygun uygulama ile başarılı sonuçlar elde edilebilir.
+]]>
+</string>
+
+    <string name="favori_ekimi_yan_etkiler">
+<![CDATA[
+
+Favori ekiminden sonra aşağıdaki yan etkilerle karşılaşmak normaldir:<br/><br/>
+
+• 1 hafta boyunca şişlik oluşabilir.<br/>
+• 2-3 gün süren hafif kanama olabilir.<br/>
+• 3-4 gün boyunca ağrı hissedebilirsiniz.<br/>
+• 3-4 gün boyunca uyuşma veya karıncalanma hissi olabilir.<br/>
+• 1 hafta boyunca kaşıntı hissedebilirsiniz.<br/>
+• Küçük şişlikler, kızarıklık ve folikülit (kıl kökü iltihabı) görülebilir.<br/><br/>
+
+Bu yan etkiler genellikle normaldir. Endişelenmeyin; Smile Hair Clinic, saç favori ekimi sonrası iyileşme sürecinizi yakından takip edecektir. Herhangi bir olağan dışı durum fark ederseniz, lütfen kliniğimizle iletişime geçin.
+]]>
+</string>
+
+    <string name="favori_ekimi_sonrasi">
+<![CDATA[
+<b>Favori Ekimi Sonrası Bakım</b><br/><br/>
+
+Ameliyattan sonra başarılı sonuç alabilmek için dikkat etmeniz gereken bazı önemli noktalar şunlardır:<br/><br/>
+
+• Ameliyattan sonra birkaç gün dinlenin.<br/>
+• Ekilen bölgeye <b>asla dokunmayın</b>; bu iyileşme sürecini yavaşlatır.<br/>
+• Yeni ekilen favorilerinize dikkat edin. Yan yatmayın; aksi halde saç greftlerine zarar verebilirsiniz. Uyurken başınızı dik tutmaya çalışın; boyun yastığı yardımcı olur.<br/>
+• Ameliyattan sonra en az 2 gün boyunca cildinizi germemek ve greftleri yerinden çıkarmamak için sert ve çiğnenebilir yiyeceklerden kaçının.<br/>
+• Yüzünüzü yıkarken sabunun ekim yapılan bölgeye temas etmesine izin vermeyin. Doktorunuz favorilerinizi yıkamak için özel bir şampuan önerecektir.<br/>
+• Güneş ışığı ekim yapılan bölgeye zarar verebilir; lekeler veya kırmızı noktalar oluşabilir. Mümkün olduğunca doğrudan güneş ışığından kaçının.<br/>
+• Terleme enfeksiyon riskini artırabilir. Favori ekimi sonrası en az 1 ay boyunca terlemeye neden olacak aktivitelerden kaçının.
+]]>
+</string>
+
+
+    <string name="favori_ekimi_oncesi">
+<![CDATA[
+<b>Favori Ekimi Öncesi Dikkat Edilmesi Gerekenler</b><br/><br/>
+
+• Operasyondan en az <b>12 saat önce sigara içilmemelidir.</b> Sigara, yaraların iyileşmesini geciktirebilir. Ameliyat sonrası da sigara içmemek, başarılı bir sonuç için önemlidir.<br/><br/>
+
+• <b>Alkol tüketimi</b, saç favori ekimi sürecini olumsuz etkiler. Operasyondan en az 24 saat önce alkol tüketiminden kaçının ve ameliyat sonrası bir süre alkol kullanmayın.<br/><br/>
+
+• Operasyondan yaklaşık 7 gün önce <b>kan sulandırıcı ilaçlar</b> kullanılmamalıdır.<br/><br/>
+
+• Mevcut saç favorilerinizi tıraş etmeyin. Doktorunuz, ekim yapılacak alanı muayene edecek ve gerekirse favori bölgenizi traş edecektir.<br/><br/>
+
+• Saç favoriniz seyrek, ince veya düzensiz olsa bile traş etmeyin. Favori bölgeniz tamamen dökülmüş olsa dahi geriye kalan şeftali tüyleri önemlidir. Doktorunuz, normal saç folikülü gelişim modelini, açısını ve yönünü belirlemek için alanı inceleyecektir.
+]]>
+</string>
+
+    <string name="favori_ekimi_kimler_icin">
+<![CDATA[
+<b>Favori Saç Ekimi Kimler İçin Uygundur?</b><br/><br/>
+
+Aşağıdaki durumlara sahip olan kişiler favori saç ekimi yaptırabilir:<br/><br/>
+
+• <b>Alopesi Barbae:</b> Sakal ve favori bölgelerinde saç dökülmesi.<br/>
+• Favori görünümünü iyileştirme ve geliştirme arzusu.<br/>
+• Alopesi nedeniyle düzensiz, ince veya sivilceli favoriler.<br/>
+• Yanık veya yaralı yüz bölgeleri.<br/>
+• Yüz germe ameliyatına bağlı yara izleri (özellikle kadınlarda daha yaygın).<br/>
+• Favori bölgesinde sivilce izleri.<br/><br/>
+
+Bu durumlara sahip kişiler için favori saç ekimi, doğal ve estetik sonuçlar sağlamak amacıyla uygulanabilir.
+]]>
+</string>
+
+    <string name="favori_dokulme_nedenleri">
+<![CDATA[
+<b>Saç Favori Dökülmesinin Nedenleri</b><br/><br/>
+
+Favori saç dökülmesinin birkaç nedeni olabilir. Frontal Fibrozan Alopesi genellikle yaşlanmaya bağlıdır. Bu nedenle kaşlarınızda, favorilerinizde ve bıyıklarınızda saç kaybı yaşlanma belirtisi olarak görülebilir. Ancak, saç dökülmesinin tek nedeni yaşlanma değildir.<br/><br/>
+
+Saç favori dökülmesi çeşitli faktörlerden kaynaklanabilir:<br/>
+• Kalıtsal faktörler ve genetik yatkınlık.<br/>
+• Tıbbi bozukluklar veya hormonal değişiklikler.<br/>
+• Yanıklar, yaralanmalar veya fiziksel travmalar; yüzünüzde yara izi kalabilir ve bu durum saç favori ekimi ihtiyacını doğurabilir.<br/>
+• Kemoterapi, favori saçlarına zarar verebilir.<br/>
+• Yüz germe ameliyatı sonrası, özellikle kadınlarda favori ekimi ihtiyacı ortaya çıkabilir.<br/>
+• Aşırı saç şekillendirme ve kimyasal işlemler, favori saçlarının eksik olmasına neden olabilir.<br/><br/>
+
+Bu nedenlerden dolayı, saç favori dökülmesinin kaynağı kişiden kişiye değişebilir ve doğru tanı ile uygun ekim planı belirlenmelidir.
+]]>
+</string>
+
+    <string name="favori_ekimi">
+<![CDATA[
+<b>Favori (Sideburn) Ekimi</b><br/><br/>
+
+Favori ekimi, saç dökülmesinin erkekler ve kadınlar arasında yaygın olduğu bölgelerden biridir. Favorilerinizde, kaşlarınızda veya ön saç çizginizde Frontal Fibrosing Alopecia gibi saç dökülmeleri yaşıyorsanız, endişelenmeyin.<br/><br/>
+
+Smile Hair Clinic, son teknoloji ile dökülen saçlarınızı yeniden kazandırmayı mümkün kılar. Favori ekimi, saç ekimiyle benzer bir süreçtir ve aşağıdaki noktalar önemlidir:<br/><br/>
+
+<b>• Kişiye Özel Planlama:</b> İhtiyaçlarınız, estetik hedefleriniz ve beklentileriniz dikkate alınarak, size en doğal görünümlü saç favori restorasyonu uygulanır.<br/><br/>
+
+<b>• Saç Köklerinin Alımı:</b> FUE tekniği ile doktorunuz, donör alan olarak kafa derisinin yan veya arka kısmından saç köklerinizi alır.<br/><br/>
+
+<b>• Doğru Yön ve Açının Önemi:</b> Saç köklerinin yönü, açısı ve büyüme şekli, favorilerinizin doğru planlanmasını sağlar ve başarılı bir sonuç için kritik öneme sahiptir.<br/><br/>
+
+<b>• Doğal Görünüm:</b> Saç derinizin, saç kalınlığının, dokusunun ve renginin favorilerinizle uyumlu olması, doğal ve estetik bir görünüm elde etmek için önemlidir.
+]]>
+</string>
+
+    <string name="sac_ekimi_sonrasi">
+<![CDATA[
+<b>Saç Ekim Operasyonu Sonrası Bakım</b><br/><br/>
+
+Saç ekim işleminiz başarılı bir şekilde tamamlandı. Şimdi, ekilen saçların bölgeye uyum sağlaması ve tam olarak uzaması için dikkat etmeniz gereken sürece geçiyoruz. Tam sonuç için yaklaşık <b>12-18 ay</b> gerekmektedir.<br/><br/>
+
+Özellikle ilk 3 ay, ekilen saçların bir kısmı döküleceği ve sonuçların gözle görülür olmayacağı bir <b>sabır süreci</b> olacaktır. Bu dönemde hastalara düşen bazı sorumluluklar vardır.<br/><br/>
+
+<b>Başarılı bir ekim süreci için dikkat edilmesi gerekenler:</b><br/>
+• Sigara kullanımını olabildiğince azaltın.<br/>
+• Doğal ve faydalı besinler tüketin.<br/>
+• Kimyasal içerikli şampuanlardan kaçının.<br/>
+• Saç kaybını destekleyici vitamin ve besleyici bakım ürünleri kullanın.<br/><br/>
+
+Unutmayın: Saç ekimi sonuçlarında memnuniyetsizliklerin büyük bir bölümü, <b>başarılı bir ekim sonrası saç köklerine yeterince özen gösterilmemesinden</b> kaynaklanmaktadır. Tüm estetik operasyonlarda olduğu gibi, operasyon sonrası bakım en iyi sonuçları almak için kritiktir.<br/><br/>
+
+Smile Hair Clinic, operasyon sonrası süreç hakkında tarafınıza özel bir eğitim sunumu gerçekleştirir. Ayrıca, paketinizde yer alan <b>operasyon sonrası bakım çantası</b> ile birlikte gelen kitapçıkta da detaylı bilgiye ulaşabilirsiniz.
+]]>
+</string>
+
+    <string name="app_name">Smile Hair</string>
+
+    <string name="sacekimAsamalari">
+<![CDATA[
+<b>Saç Ekimi Operasyon Süreci</b><br/><br/>
+
+<b>1 – Ön Hazırlık Aşaması</b><br/>
+Klinik kapısından girmeniz ile lokal anestezi işlemine başlama aşamasına kadar olan süreç ön hazırlık aşaması olarak adlandırılır. Sırasıyla aşağıdaki adımlar uygulanır:<br/><br/>
+
+<b>• Kan Testi:</b> Operasyona engel bir durum olup olmadığını belirlemek için yapılır. Kan alımı maksimum 1 dakika sürer ve sonuçlar, süreç bilgilendirme sunumunu izlerken hazır olur.<br/><br/>
+
+<b>• Greft Kalitesi ve Süreç Bilgilendirme Sunumu:</b> Smile Hair Clinic tarafından sunulan bu özel sunum, sizi hem psikolojik olarak hazırlar hem de greft kalitesinin ve ekim sürecinin başarıya etkilerini detaylı bir şekilde açıklar.<br/><br/>
+
+<b>• Saç Ekimi Planlaması:</b> Doktorunuz beklentilerinizi dinler, teknik açıdan nelerin mümkün olduğunu değerlendirir ve çizimlerle size sunar. Son tasarım belirlendikten sonra saç traşı yapılır ve lokal anesteziye hazır hale gelirsiniz. Kıyafetleriniz size özel dolaplarda saklanırken, hasta önlüğü giydirilirsiniz.<br/><br/>
+
+<b>2 – Lokal Anestezi İşlemi</b><br/>
+Türkiye’de saç ekimi operasyonları lokal anestezi ile yapılır. Hasta operasyon süresince uyanıktır. İlk birkaç enjeksiyonda hafif yanma hissi olabilir, geri kalan sürede ağrı hissedilmez. Lokal anestezinin etkisi yaklaşık 15-20 dakika sürer.<br/><br/>
+
+<b>3 – Saç Ektirme Operasyonu</b><br/>
+Saç ekimi üç ana fazdan oluşur:<br/><br/>
+
+<b>• Alım İşlemi:</b> Mikro Motor FUE yöntemi ile daha fazla greft tek seansta hızlıca alınır. Greftler pen-set ile toplanır, gruplara ayrılır ve koruyucu sıvıda canlı kalmaları sağlanır.<br/><br/>
+
+<b>• Kanal İşlemi:</b> Kanal açma, doğal sonuç için kritik öneme sahiptir. Alıcı bölgeye lokal anestezi uygulanır ve kanallar uzman hekimler tarafından açılır. Kanalların açısı ve derinliği, sonucun doğallığını belirler.<br/><br/>
+
+<b>• Ekim İşlemi:</b> Alım ve kanal aşamalarının ardından greftler özenle kanallara yerleştirilir. İşlem, hastadaki kök sayısına, kanama durumuna ve genel duruma bağlı olarak değişebilir. Ekim tamamlandıktan sonra operasyon sona erer.
+]]>
+</string>
+
+    <string name="sacEkimiNasil">En basit anlamda saç ekimi; ense bölgesinde yer alan donör bölgesinden toplanan saçların seyrelmiş veya saçsız kalmış bölgelere transfer edilmesidir. Saç ekim doktorları ve teknisyenleri tarafından operasyon odasında gerçekleştirilen, ortalama 6 ila 8 saat arasında süren bir operasyondur.</string>
+    <string name="sac_ekimi_tanitim">
+<![CDATA[
+Saç ekimi, kellik veya saç kaybı yaşayan kişilere daha fazla saç yoğunluğu ve dolgunluğu sağlamak için uygulanan bir cerrahi operasyondur. Genellikle saç ekimi işlemi, kişinin kendi saç köklerini veya bir bağışçıdan alınan saç köklerini alır ve birkaç bölgeye yeniden yerleştirir.<br/><br/>
+
+Geçmişten günümüze saç, hem erkekler hem de kadınlar için önemli bir faktör olmuştur. Saçların seyrek veya gür oluşuna göre kişinin özgüven seviyesi azalabilir veya artabilir.<br/><br/>
+
+Ayrıca sağlıklı saç, günümüzde karşı cinse karşı çekici ve güçlü görünmenin bir yolu haline gelmiştir. Bu nedenle saç kaybı, özellikle son yıllarda, özgüven kaybına ve psikolojik sıkıntılara da sebep olabilmektedir.
+]]>
+</string>
+    <string name="sac_ekimi_hazirlik">
+<![CDATA[
+<b>Saç Ekimi Operasyonuna Hazırlık</b><br/><br/>
+
+Saç ekimi operasyonuna hazırlanmak, iyi bir sonuç elde etmek ve iyileşme sürecini hızlandırmak için çok önemlidir. Hazırlık sırasında dikkat etmeniz gerekenler şunlardır:<br/><br/>
+
+<b>1. Doktor Seçimi:</b> Saç ekimi konusunda uzman ve deneyimli bir doktor veya merkezi tercih edin. Doktorunuzun referanslarını ve geçmiş başarılarını inceleyin. Mümkünse, saç ekimi operasyonu geçirmiş kişilerin deneyimlerini araştırın.<br/><br/>
+
+<b>2. Muayene ve Değerlendirme:</b> Saç durumunuzun değerlendirilmesi için doktorunuzla ön muayene yapın. Operasyonun sizin için uygun olup olmadığını netleştirin.<br/><br/>
+
+<b>3. İlaçlar:</b> Düzenli kullandığınız ilaçları doktorunuza bildirin. Bazı ilaçlar operasyon için uygun olmayabilir.<br/><br/>
+
+<b>4. Sigara ve Alkol:</b> Operasyon öncesi en az bir hafta sigara ve alkolü bırakın. Bu, iyileşmeyi hızlandırır.<br/><br/>
+
+<b>5. Beslenme:</b> Protein ve C vitamini ağırlıklı sağlıklı bir diyet uygulayın. Bu, iyileşme sürecine yardımcı olur.<br/><br/>
+
+<b>6. Saç Kesimi:</b> Donör bölgeden saç alınacağı için saçlarınız kısaltılabilir. Kesim detaylarını doktorunuzla konuşun.<br/><br/>
+
+<b>7. Operasyon Günü Hazırlığı:</b> Rahat kıyafetler giyin. Uzun süre oturacağınızı unutmayın.<br/><br/>
+
+<b>8. İletişim:</b> Operasyon sonrası ihtiyaçlarınız için destek ağı oluşturun. Evde dinlenme ve yardım gerekebilir.<br/><br/>
+
+<b>9. Operasyon Sonrası Bakım:</b> Doktorunuzun talimatlarına uyun. Saç ekimi sonuçları ve yara iyileşmesi için talimatlar çok önemlidir.<br/><br/>
+
+<b>10. Stres Yönetimi:</b> Operasyon öncesi ve sonrası stresi minimumda tutun. Stres iyileşmeyi olumsuz etkileyebilir.<br/><br/>
+
+Her kişinin saç ekimi operasyonu farklıdır; doktorunuzun tavsiyelerine uymak, başarılı sonuçlar için kritik öneme sahiptir.
+]]>
+</string>
+
+
+    <string name="afro_treatmentOncesi">
+    <![CDATA[
+    <b>Aşağıdaki konulara dikkat etmenizi tavsiye ederiz:</b><br/><br/>
+    • Lütfen kafanıza takılan tüm soruları sorduğunuza ve net cevaplar aldığınıza emin olunuz.<br/>
+    • 7 gün önce sigarayı ve aspirini; 3 gün önce kafein, yeşil çayı ve alkolü bırakınız.<br/>
+    • Operasyon gününüze karar verirken en azından sonraki 3 gün dinlenebileceğiniz bir döneme denk getiriniz.<br/>
+    • Operasyona geleceğiniz gün iyi bir kahvaltı yaptığınıza emin olunuz. Eğer operasyonunuz öğleden sonra ise hafif bir menü tercih ediniz.<br/>
+    • Mutlaka önden düğmeli bir gömlek veya fermuarlı bir sweatshirt giyiniz.<br/>
+    • Boğazlı kazak gibi kafanızdan geçirerek giymek zorunda kalacağınız kıyafetleri tercih etmeyiniz.<br/>
+    • Mutlaka size belirtilen saatte klinikte olunuz.
+    ]]>
+</string>
+
+    <string name="afroSacEkimi">
+    <![CDATA[
+    <b>Afro Saç Ekimi — Bilmeniz Gerekenler</b><br/><br/>
+
+    Afro saç ekimi, klasik (düz) saç ekimine göre daha karmaşık ve uzmanlık gerektiren bir işlemdir. Afro saç tipindeki kıvırcıklık deri yüzeyinde olduğu kadar deri altında da belirgindir; bu yüzden greftlerin tespiti, çıkarılması ve yerleştirilmesi daha titiz bir çalışma gerektirir.<br/><br/>
+
+    <b>Afro saç tipinin işlem üzerindeki etkileri:</b><br/>
+    • Saç köklerini bulmak ve çıkarmak daha zordur.<br/>
+    • Cerrah ve ekibin titizliği ve tecrübesi kritik önemdedir.<br/>
+    • Operasyon, düz saç ekimine göre daha hassas ve daha uzun sürebilir.<br/>
+    • Afro saçlar genellikle daha az greft gerektirse de kıvırcık dokusu sayesinde görsel olarak daha yoğun görünür.<br/><br/>
+
+    ]]>
+</string>
+    <string name="afro_sss">
+<![CDATA[
+<b>Sıkça Sorulan Sorular</b><br/><br/>
+
+<b>Saç Ekimi Afro Saçlarda İşe Yarar mı?</b><br/>
+Afro saçlara sahip olduğunuz için saç ekimi için iyi bir aday olmadığınız gibi bir düşünceniz olmasın. Afro saçlı pek çok kişi saç ekimi yaptırmış ve iyi sonuçlar almıştır.<br/><br/>
+
+Smile Hair Clinic, lider teknolojisi, deneyimli cerrahları ve uzman ekibiyle afro saç ekiminde başarı sağlamaktadır! Saçınız ne kadar kıvırcık, dalgalı ya da kinky olursa olsun, biz bunu yönetecek deneyime sahibiz!<br/><br/>
+
+<b>Afro Saçlarda FUE Çalışır mı?</b><br/>
+Afro saç tipi (kıvırcık, dalgalı veya kinky saç), saçların anatomik yapısı nedeniyle geçmişte daha zorlu bir saç ekimi tipiydi. Ancak bu zorluk günümüzde büyük ölçüde aşılmıştır.<br/><br/>
+
+FUE (Foliküler Ünite Ekstraksiyonu) tekniğindeki gelişmeler sayesinde afro saçlı olan kişiler için saç ekimi artık daha erişilebilir, daha başarılı ve daha yüksek greft hayatta kalma oranlarına sahiptir.<br/><br/>
+
+Afro hastamız <b>Mohammad’ın saç ekimi yolculuğunu</b> görmek için bize ulaşabilirsiniz.
+]]>
+</string>
+
+    <string name="afroEnIyiTeknik">
+    <![CDATA[
+
+
+    Afro saç tipine sahip erkekler, operasyon günü hangi tekniğin uygulanması gerektiğini sıkça araştırırlar. Saç ekimi için birçok yöntem vardır ve bunların arasında <b>FUE saç ekimi</b> tüm saç tiplerinde kalıcı ve başarılı sonuçlar sunmasıyla en popüleridir.<br/><br/>
+
+    Ancak, her bireyin saç yapısı kendine özeldir. Bu nedenle hangi tekniğin en doğru seçenek olduğunu belirlemek için mutlaka uzman kontrolünde analiz yapılmalıdır. <b>Analiz yapılmadan yöntemin belirlenmesi mümkün değildir</b>.<br/><br/>
+
+    <b>Afro Saç Tipleri</b><br/><br/>
+
+    <b>1️⃣ Afro Kıvırcık Saç</b><br/>
+    Cildin altında bile kıvırcık ilerleyen bir saç köküne sahiptir. “S” veya “Z” şeklindeki kıvrımlar belirgindir ve hacim yüksektir. Bu yapı nedeniyle zarar görmeye daha yatkındır. Bu saç tipinde saç ekimi <b>daha karmaşık ve dikkat gerektiren</b> bir işlemdir.<br/><br/>
+
+    <b>2️⃣ Afro Dalgalı Saç</b><br/>
+    Dalgalı afro saç, kıvırcık tipe göre daha az hacimlidir. Şekil alması daha kolaydır ve saç ekimi süreci daha kontrollü yönetilebilir. Planlama ve cerrahi yaklaşım <b>daha basittir</b>.<br/><br/>
+
+    <b>3️⃣ Afro Düz Saç</b><br/>
+    Düz afro saç kıvrım veya dalga içermediğinden bakımı daha kolaydır. Yapısal olarak düz saçlara daha yakın olduğundan planlama ve cerrahi yaklaşım <b>klasik saç ekimine oldukça benzer</b>. Genellikle daha dayanıklıdır.<br/><br/>
+
+    <b>4️⃣ Afro Kinky Saç</b><br/>
+    Kinky saç çok sıkı kıvrımlara sahiptir, yüksek yoğunlukta ve oldukça kırılgandır. Bu nedenle zarar görmeye daha yatkındır. Ancak bu durum <b>başarılı bir saç ekimi yapılamayacağı anlamına gelmez</b>! Kinky afro saç ekiminde kullanılan teknikler büyük ölçüde klasik saç ekimi teknikleriyle aynıdır. Sadece bazı kritik teknik detaylar konusunda tecrübeli bir ekip gereklidir.<br/><br/>
+
+    <i>Unutmayın: En doğru teknik, uzman analizinden sonra belirlenir.</i><br/>
+    ]]>
+</string>
+
+
+    <string name="afro_treatmentnasi">
+    <![CDATA[
+Aşağıdaki konulara dikkat etmenizi tavsiye ederiz.
+
+• Lütfen kafanıza takılan tüm soruları sorduğunuza ve net cevaplar aldığınıza emin olunuz.
+• 7 gün önce sigarayı ve aspirini; 3 gün önce kafein, yeşil çayı ve alkolü bırakınız.
+• Operasyon gününüze karar verirken en azından sonraki 3 gün dinlenebileceğiniz bir döneme denk getiriniz.
+• Operasyona geleceğiniz gün iyi bir kahvaltı yaptığınıza emin olunuz. Eğer operasyonunuz öğleden sonra ise hafif bir menü tercih ediniz.
+• Mutlaka önden düğmeli bir gömlek veya fermuarlı bir sweatshirt giyiniz.
+• Boğazlı kazak gibi kafadan geçirilerek giyilen kıyafetlerden kaçınınız; saç kökleriniz zarar görebilir.
+• Mutlaka size belirtilen saatte klinikte olunuz.
+    ]]>
+</string>
+
+    <string name="default_web_client_id">12064393119-7bapimshi2evgl1ncl3p271umrjtm9gm.apps.googleusercontent.com</string>
+
+    <string name="sac_ekim_hazırlık">
+    <![CDATA[
+Saç ekimi operasyonuna hazırlanmak, iyi bir sonuç elde etmek ve iyileşme sürecini hızlandırmak için çok önemlidir.
+
+• Doktor seçimi: Operasyonu yapacak kişinin uzman ve deneyimli olmasına dikkat edin.
+• Muayene ve değerlendirme: Saç yapınızın uygunluğu için ön muayene yaptırın.
+• İlaçlar: Düzenli ilaç kullanıyorsanız doktorunuza danışın.
+• Sigara ve alkol: En az 1 hafta önce bırakın veya sınırlandırın.
+• Beslenme: Protein ve C vitamini ağırlıklı sağlıklı beslenin.
+• Operasyon günü hazırlığı: Rahat kıyafetler tercih edin.
+• Destek: Evde yardım gerekebileceğinden planlama yapın.
+• Operasyon sonrası bakım: Doktorun talimatlarına uyun.
+• Stres yönetimi: Süreci mümkün olduğunca rahat geçirin.
+
+Operasyon süreci kişiye özeldir; doktorun yönlendirmelerini dikkate almak çok önemlidir.
+    ]]>
+</string>
+
+</resources>

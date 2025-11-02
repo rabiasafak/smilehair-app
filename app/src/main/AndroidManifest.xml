@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.smilehair">
+    <!-- İnternet erişimi gerekiyor (Firebase ve Google Sign-In için) -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SmileHair">
+        <activity
+            android:name=".AdminAssignTreatmentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhotoFullscreenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhotoUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TreatmentDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HakkindaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ContactActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WhyUsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GentleCareActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhilosophyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SocialResponsibilityActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EthicsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PressActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DoctorsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MezoterapiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BiyikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SakalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SacActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FavoriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AfroActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KadinSacActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KasActivity"
+            android:exported="false" /> <!-- YENİ: İşlem Sonrası Rehber Aktivitesi -->
+        <activity
+            android:name=".AfterProcessActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SmileHair.NoActionBar" /> <!-- Splash ekranı -->
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- Login ekranı -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" /> <!-- Ana ekran -->
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

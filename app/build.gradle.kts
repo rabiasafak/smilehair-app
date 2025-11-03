@@ -67,6 +67,16 @@ dependencies {
     implementation("androidx.viewpager2:viewpager2:1.0.0")
     implementation("androidx.gridlayout:gridlayout:1.0.0")
 
+    // Kamera kütüphaneleri
+    implementation("androidx.camera:camera-core:1.5.1")
+    implementation("androidx.camera:camera-camera2:1.5.1")
+    implementation("androidx.camera:camera-lifecycle:1.5.1")
+    implementation("androidx.camera:camera-view:1.5.1")
+    implementation("androidx.camera:camera-extensions:1.5.1")
+
+    // lifecycle
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.9.4")
+
     // Test kütüphaneleri
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
